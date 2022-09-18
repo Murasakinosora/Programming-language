@@ -1,0 +1,48 @@
+INT ~
+a>~
+INT a~
+CHAR ~
+CHAR b~
+FLOAT ~
+FLOAT c~
+STRING d~
+STRING ~
+x = a+b ~
+x = a + ~
+x = c - d~
+x = c - ~
+x = e * f~
+x = e * ~
+x = g ** h~
+x = g ** ~
+x = i % j~
+x = i % ~
+a>b~
+a>~
+if(a==b){
+ statement
+}~
+if(a==){
+statement
+}~
+(a==b) AND (c<b)~
+1 AND (c<b)~
+X = SCAN()~
+SCAN()~
+BOOL a = true~
+BOOL a = ~
+ = a + b ~
+REPEAT(a) DO
+  statements~
+REPEAT (a DO
+statements~
+
+
+
+
+
+
+
+
+
+
